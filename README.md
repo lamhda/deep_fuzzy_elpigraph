@@ -2,7 +2,7 @@
 
 New deep learning data representation approach has been suggested for shaping the geometrical structure of data latent space. The method uses a combination of variational graph autoencoders with the base algorithm of elastic principal graphs, [ElPiGraph](https://github.com/j-bac/elpigraph-python). The general idea is to organize the latent spaces of complex autoencoders as a set of branching trajectories such that the latent spaces could be more efficiently explored for the generative data modeling. 
 
-![image](deepelpigraph.png =250x)
+![image](deepelpigraph.png)
 
 <p style="text-align:center;">Figure illustrating the method</p>
 
