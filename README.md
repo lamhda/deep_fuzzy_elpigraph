@@ -2,7 +2,7 @@
 
 The method uses a combination of variational graph autoencoders with the base algorithm of elastic principal graphs, [ElPiGraph](https://github.com/j-bac/elpigraph-python). The general idea is to organize the latent spaces of complex autoencoders as a set of branching trajectories such that the latent spaces could be more efficiently explored for the generative data modeling. 
 
-
+![image](files/Users/jzhang/Desktop/Isolated.png)
 Figure illustrating the method principle.
 
 
